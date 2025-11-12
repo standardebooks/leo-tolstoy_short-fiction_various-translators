@@ -117,29 +117,29 @@
 		<meta property="alternate-script" refines="#author">Лев Никола́евич Толсто́й</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Leo_Tolstoy</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79068416</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Louise Maude</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Maude, Louise</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Louise_Maude</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n81139201</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
-		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Aylmer Maude</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Maude, Aylmer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Aylmer_Maude</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n80001480</meta>
 		<meta property="display-seq" refines="#translator-2">2</meta>
-		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">Nathan Haskell Dole</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Dole, Nathan Haskell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Nathan_Haskell_Dole</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n50027251</meta>
 		<meta property="display-seq" refines="#translator-3">3</meta>
-		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">Constance Garnett</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Garnett, Constance</meta>
 		<meta property="se:name.person.full-name" refines="#translator-4">Constance Clara Garnett</meta>
@@ -159,8 +159,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">https://en.wikipedia.org/wiki/Leo_Wiener</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-6">http://id.loc.gov/authorities/names/n50016211</meta>
 		<meta property="display-seq" refines="#translator-6">6</meta>
-		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-7">R. S. Townsend</dc:contributor>
 		<meta property="file-as" refines="#translator-7">Townsend, R. S.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-7">Rochelle Slavyanskaia Townsend</meta>
@@ -173,16 +173,16 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/Charles_Theodore_Hagberg_Wright</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/no94013862</meta>
 		<meta property="display-seq" refines="#translator-8">8</meta>
-		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-9">Benjamin Tucker</dc:contributor>
 		<meta property="file-as" refines="#translator-9">Tucker, Benjamin</meta>
 		<meta property="se:name.person.full-name" refines="#translator-9">Benjamin Ricketson Tucker</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-9">https://en.wikipedia.org/wiki/Benjamin_Tucker</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n50012630</meta>
 		<meta property="display-seq" refines="#translator-9">9</meta>
-		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-9" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-10">Everyman’s Library</dc:contributor>
 		<meta property="file-as" refines="#translator-10">Everyman’s Library</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-10">https://en.wikipedia.org/wiki/Everyman%27s_Library</meta>
@@ -264,8 +264,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
