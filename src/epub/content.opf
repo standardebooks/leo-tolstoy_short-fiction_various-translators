@@ -107,7 +107,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/51018</dc:source>
 		<!--End Sources-->
 		<meta property="se:production-notes">Many stories in this collection were transcribed from the OCR due to the lack of pre-existing transcriptions. As the Tolstoy centenary edition (https://catalog.hathitrust.org/Record/001110412) translated by the Maudes is released into public domain, we should look into replacing other translators with the Maudes when possible.</meta>
-		<meta property="se:word-count">659619</meta>
+		<meta property="se:word-count">653203</meta>
 		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leo_Tolstoy_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_short-fiction_various-translators</meta>
