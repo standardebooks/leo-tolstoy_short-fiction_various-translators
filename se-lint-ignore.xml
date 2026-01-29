@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>m-035</code>
+			<reason>The S.E. identifier contains the incorrect spelling of Leo Wiener's last name from original publication.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-023</code>
+			<reason>The dc:identifier contains the incorrect spelling of Leo Wiener's last name from original publication.</reason>
+		</ignore>
+	</file>
 	<file path="a-dialogue-among-clever-people.xhtml">
 		<ignore>
 			<code>s-033</code>
