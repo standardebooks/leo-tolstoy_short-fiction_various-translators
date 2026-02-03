@@ -46,8 +46,15 @@
 		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta id="collection-2" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta type="se:title-in-collection" refines="#collection-1">The Death of Ivan Ilyitch</meta>	
+		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta type="se:title-in-collection" refines="#collection-2">The Three Hermits</meta>	
+		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta type="se:title-in-collection" refines="#collection-3">What Men Live By</meta>	
+		<meta id="collection-4" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-4">set</meta>
 		<dc:description id="description">A collection of all of the short stories and novellas written by Leo Tolstoy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;While perhaps best known for his novels &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude"&gt;&lt;i&gt;War and Peace&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett"&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/a&gt;, the Russian author and religious thinker &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; was also a prolific author of short fiction. This Standard Ebooks edition compiles all of Tolstoy’s short stories and novellas written from 1852 up to his death, arranged in order of their original publication.&lt;/p&gt;
