@@ -46,13 +46,13 @@
 		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta type="se:title-in-collection" refines="#collection-1">The Death of Ivan Ilyitch</meta>	
+		<meta property="se:title-in-collection" refines="#collection-1">The Death of Ivan Ilyitch</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<meta type="se:title-in-collection" refines="#collection-2">The Three Hermits</meta>	
+		<meta property="se:title-in-collection" refines="#collection-2">The Three Hermits</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
-		<meta type="se:title-in-collection" refines="#collection-3">What Men Live By</meta>	
+		<meta property="se:title-in-collection" refines="#collection-3">What Men Live By</meta>
 		<meta id="collection-4" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<dc:description id="description">A collection of all of the short stories and novellas written by Leo Tolstoy.</dc:description>
