@@ -1,68 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="a-dialogue-among-clever-people.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="a-russian-proprietor.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="albert.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="from-the-new-speller.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="kholstomir.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="lucerne.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="recollections-of-a-scorer.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="the-candle.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="the-forged-coupon.xhtml">
-		<ignore>
-			<code>t-010</code>
+		<ignore code="t-010">
 			<reason>The linter is flagging currency amounts as times set with a period.</reason>
 		</ignore>
 	</file>
 	<file path="three-parables.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
 	<file path="walk-in-the-light-while-there-is-light.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This is an American English translation.</reason>
 		</ignore>
 	</file>
