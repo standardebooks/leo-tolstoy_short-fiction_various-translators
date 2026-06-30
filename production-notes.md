@@ -1,0 +1,1 @@
+Many stories in this collection were transcribed from the OCR due to the lack of pre-existing transcriptions. As the Tolstoy centenary edition (https://catalog.hathitrust.org/Record/001110412) translated by the Maudes is released into public domain, we should look into replacing other translators with the Maudes when possible.
