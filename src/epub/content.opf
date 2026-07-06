@@ -123,7 +123,7 @@
 		<meta property="schema:wordCount">653203</meta>
 		<meta property="schema:educationalLevel">71.14</meta>
 		<link href="https://en.wikipedia.org/wiki/Leo_Tolstoy_bibliography" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/leo-tolstoy_short-fiction_various-translators" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
