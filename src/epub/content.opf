@@ -62,6 +62,9 @@
 		<meta property="schema:name" refines="#collection-3-entry-1">What Men Live By</meta>
 		<meta id="collection-4" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
+		<meta property="schema:hasPart" refines="#collection-4" id="collection-4-entry-1">schema:hasPart</meta>
+		<meta property="rdf:type" refines="#collection-4-entry-1">http://schema.org/CreativeWork</meta>
+		<meta property="schema:name" refines="#collection-4-entry-1">The Story of Iván the Fool</meta>
 		<meta property="schema:abstract">A collection of all of the short stories and novellas written by Leo Tolstoy.</meta>
 		<dc:description>
 			&lt;p&gt;While perhaps best known for his novels &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude"&gt;&lt;i&gt;War and Peace&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett"&gt;&lt;i&gt;Anna Karenina&lt;/i&gt;&lt;/a&gt;, the Russian author and religious thinker &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt; was also a prolific author of short fiction. This Standard Ebooks edition compiles all of Tolstoy’s short stories and novellas written from 1852 up to his death, arranged in order of their original publication.&lt;/p&gt;
