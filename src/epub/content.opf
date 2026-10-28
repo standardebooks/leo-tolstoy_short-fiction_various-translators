@@ -219,7 +219,6 @@
 		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-1" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Distributed_Proofreaders" refines="#transcriber-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Sankar Viswanathan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Viswanathan, Sankar</meta>
