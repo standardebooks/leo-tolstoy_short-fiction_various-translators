@@ -47,22 +47,22 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
+		<meta id="collection-1-entry-1" property="schema:hasPart" refines="#collection-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">The Death of Ivan Ilyitch</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<meta property="schema:hasPart" refines="#collection-2" id="collection-2-entry-1">schema:hasPart</meta>
+		<meta id="collection-2-entry-1" property="schema:hasPart" refines="#collection-2">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-2-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-2-entry-1">The Three Hermits</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
-		<meta property="schema:hasPart" refines="#collection-3" id="collection-3-entry-1">schema:hasPart</meta>
+		<meta id="collection-3-entry-1" property="schema:hasPart" refines="#collection-3">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-3-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-3-entry-1">What Men Live By</meta>
 		<meta id="collection-4" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
-		<meta property="schema:hasPart" refines="#collection-4" id="collection-4-entry-1">schema:hasPart</meta>
+		<meta id="collection-4-entry-1" property="schema:hasPart" refines="#collection-4">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-4-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-4-entry-1">The Story of Iván the Fool</meta>
 		<meta property="schema:abstract">A collection of all of the short stories and novellas written by Leo Tolstoy.</meta>
@@ -131,7 +131,7 @@
 		<link href="https://github.com/standardebooks/leo-tolstoy_short-fiction_various-translators" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
 		<meta property="file-as" refines="#author">Tolstoy, Leo</meta>
-		<meta property="schema:alternateName" refines="#author">Count Lev Nikolayevich Tolstoy</meta>
+		<meta property="schema:alternateName" refines="#author">Lev Nikolayevich Tolstoy</meta>
 		<meta property="alternate-script" refines="#author">Лев Никола́евич Толсто́й</meta>
 		<link href="https://en.wikipedia.org/wiki/Leo_Tolstoy" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79068416.html" refines="#author" rel="schema:sameAs"/>
@@ -229,7 +229,6 @@
 		<dc:contributor id="transcriber-4">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Wikisource</meta>
 		<link href="https://en.wikisource.org/" refines="#transcriber-4" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Wikisource" refines="#transcriber-4" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">Anna Hall</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Hall, Anna</meta>
@@ -245,6 +244,8 @@
 		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-9">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-9">Widger, David</meta>
+		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-9" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-9" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-9" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-10">Clare Graham</dc:contributor>
 		<meta property="file-as" refines="#transcriber-10">Graham, Clare</meta>
